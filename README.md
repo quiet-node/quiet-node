@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @lgad31vn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lgad31vn/lgad31vn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, this is Logan, a senior computer science student at SUNY Oswego
+- 🖌 I’m highly interested in front-end web development and blockchain development
+- 🌱 I’m currently learning web 3.0, smart contracts in solidity, building decentralized apps, and also practicing on algos and data structures (It's hard 🥲..!)
+- ✨ My portfolio: https://namnguyen31.netlify.app
+- 📫 Reach me at nnguyen6@oswego.edu
