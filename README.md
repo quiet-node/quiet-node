@@ -11,12 +11,10 @@
 
   ✨✨
 
-  ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgad31vn&hide=stars&show_icons=true&theme=gotham)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgad31vn&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/lgad31vn/github-readme-stats)
 
-
+  ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgad31vn&hide=stars&show_icons=true&theme=gotham)
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lgad31vn&theme=gotham)  
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lgad31vn&theme=gotham)  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lgad31vn&theme=gotham&layout=compact)  
 
