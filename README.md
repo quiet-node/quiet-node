@@ -1,8 +1,13 @@
-- 👋 Hi, this is Logan, a senior computer science student at SUNY Oswego
+### Hi there 👋, this is Logan
+#### Senior CS student @SUNY Oswego
+![Senior CS student @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500)
+
+
 - 🖌 I’m highly interested in front-end web development and blockchain development
 - 🌱 I’m currently learning web 3.0, smart contracts in solidity, building decentralized apps, and also practicing on algos and data structures 
 - ✨ My portfolio: https://namnguyen31.netlify.app
 - 📫 Reach me at nnguyen6@oswego.edu
+
 
   ✨✨
 
