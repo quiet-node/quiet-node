@@ -1,5 +1,5 @@
 # Howdy 👋, it's Logan :)
-### Senior CS student @SUNY Oswego
+## Senior CS student @SUNY Oswego
 ![Senior CS student @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500)
 
 
