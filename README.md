@@ -4,7 +4,7 @@
 
 
 - 🖌 I’m highly interested in front-end web development and blockchain development
-- 🌱 I’m currently learning web 3.0, smart contracts in solidity, building decentralized apps, and also practicing on algos
+- 🌱 I’m currently open liberty, microprofile, JWT, algorithms, and web 3.0, blockchain.
 - ✨ My portfolio: https://namnguyen31.netlify.app
 - 📫 Reach me at nnguyen6@oswego.edu
 
