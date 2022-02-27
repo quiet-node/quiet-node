@@ -6,7 +6,7 @@
 
 - 🖌 I’m highly interested in front-end web development and blockchain development
 - 🌱 I’m currently open liberty, microprofile, JWT, algorithms, and web 3.0, blockchain.
-- ✨ My portfolio: https://namnguyen31.netlify.app
+- ✨ My portfolio: https://namnguyen31.com
 - 📫 Reach me at nnguyen6@oswego.edu
 
 
