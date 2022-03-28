@@ -10,7 +10,6 @@
 - 📫 Reach me at nnguyen6@oswego.edu
 
 
-  ✨
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgad31vn&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/lgad31vn/github-readme-stats)
 
