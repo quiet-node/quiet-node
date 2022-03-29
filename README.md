@@ -5,7 +5,7 @@
 #### FACT: This readme presents itself best in darkmode! :) 
 
 - 🖌 I’m highly interested in back-end web development and blockchain development
-- 🌱 I’m currently learning open liberty, microprofile, JWT, algorithms, and web 3.0, blockchain.
+- 🌱 I’m currently learning open liberty, JAX-RS, Web security with MicroProfile JWT, algorithms, web 3.0 and blockchain.
 - ✨ My portfolio: https://namnguyen31.com
 - 📫 Reach me at nnguyen6@oswego.edu
 
