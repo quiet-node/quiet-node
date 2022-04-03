@@ -2,7 +2,6 @@
 ## Senior CS student @SUNY Oswego
 ![Senior CS student @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500)
 
-#### FACT: This readme presents itself best in darkmode! :) 
 
 - 🖌 I’m highly interested in back-end web development and blockchain development
 - 🌱 I’m currently learning open liberty, JAX-RS, Web security with MicroProfile JWT, algorithms, web 3.0 and blockchain.
