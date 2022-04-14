@@ -17,6 +17,5 @@
   ![Profile views](https://gpvc.arturio.dev/lgad31vn)
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgad31vn&repo=Hashtology-dapp&theme=gotham)](https://github.com/lgad31vn/Hashtology-dapp) -->
 
-
 <!--   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lgad31vn&theme=gotham&layout=compact)   -->
 
