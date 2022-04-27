@@ -10,9 +10,10 @@
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgad31vn&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/lgad31vn/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgad31vn&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/lgad31vn/github-readme-stats) -->
 
   ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgad31vn&hide=stars&show_icons=true&theme=gotham)
+  
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lgad31vn&theme=gotham)  
   ![Profile views](https://gpvc.arturio.dev/lgad31vn)
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgad31vn&repo=Hashtology-dapp&theme=gotham)](https://github.com/lgad31vn/Hashtology-dapp) -->
