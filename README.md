@@ -4,7 +4,7 @@
 
 
 - 🖌 I’m highly interested in back-end web development and blockchain development
-- 🌱 I’m currently learning open liberty, JAX-RS, Web security with MicroProfile JWT, algorithms, web 3.0 and blockchain.
+- 🌱 I’m currently learning mobile development (both iOS and Android native), Solidity, web 3.0 and blockchain development.
 - ✨ My portfolio: https://namnguyen31.com
 - 📫 Reach me at nnguyen6@oswego.edu
 
