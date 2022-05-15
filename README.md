@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning mobile development (both iOS and Android native), Solidity, web 3.0 and blockchain development.
 - ✨ My portfolio: https://namnguyen31.com
 - 📫 Reach me at nnguyen6@oswego.edu
-- 🧾 My resume: https://lgad31vn.github.io/resume/
+- 📃 My resume: https://lgad31vn.github.io/resume/
 
 
 
