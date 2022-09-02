@@ -5,9 +5,13 @@
 - 👋 Hi, this is Logan, a senior computer science student at SUNY Oswego
 - 🖌 I’m highly interested in blockchain development and web 3.0
 - 🌱 I’m currently working on:
+
       - Solidity, web 3.0 and blockchain development for my Capstone Project
+      
       - MERN stack for my internship project at Jobs4Interns
+      
       - AWS, Golang, etc.
+      
 - ✨ My portfolio: https://namnguyen31.com
 - 📫 Reach me at nnguyen6@oswego.edu
 
