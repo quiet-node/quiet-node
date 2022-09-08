@@ -6,7 +6,7 @@
 - 🖌 I’m highly interested in blockchain development and a web 3.0 enthusiast
 - 🌱 I’m currently working on:
 
-   - ***SWYL*** - `Support Who You Love` (`Capston Project`) , a web 3.0 platform that helps musicians and artists connect to their fanbase and either get supports through donations (`tips`) or sell their music as `NFTs`. (#web3.0, #ethereum, #solidity, #smart-contract, #oppenzeppelin, #ERC-721, #ERC-1155, #IPFS, #nextjs, #tailwindcss)
+   - ***SWYL*** - `Support Who You Love` (`Capstone Project`) , a web 3.0 platform that helps musicians and artists connect to their fanbase and either get supports through donations (`tips`) or sell their music as `NFTs`. (#web3.0, #ethereum, #solidity, #smart-contract, #oppenzeppelin, #ERC-721, #ERC-1155, #IPFS, #nextjs, #tailwindcss)
       
    - `Jobs4Interns` project as an intern at `J4I`. `Jobs4Interns`, powered on top of the MERN stack, is a highly scalable web application that assists interns connect with potential employers and land on internships with ease. (#nodejs, #expressjs, #mongodb, #react, #css)
       
