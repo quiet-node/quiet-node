@@ -3,14 +3,14 @@
 ![Senior CS major @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500)
 
 - 👋 Hi, this is Logan, a senior computer science student at SUNY Oswego
-- 🖌 I’m highly interested in blockchain development and web 3.0
+- 🖌 I’m highly interested in blockchain development and a web 3.0 enthusiast
 - 🌱 I’m currently working on:
 
-      - Solidity, web 3.0 and blockchain development for my Capstone Project
+   - ***SWYL*** - `Support Who You Love` (`Capston Project`) , a web 3.0 platform that helps musicians and artists connect to their fanbase and either get supports through donations (`tips`) or sell their music as `NFTs`. (#web3.0, #ethereum, #solidity, #smart-contract, #oppenzeppelin, #ERC-721, #ERC-1155, #IPFS, #nextjs, #tailwindcss)
       
-      - MERN stack for my internship project at Jobs4Interns
+   - `Jobs4Interns` project as an intern at `J4I`. `Jobs4Interns`, powered on top of the MERN stack, is a highly scalable web application that assists interns connect with potential employers and land on internships with ease. (#nodejs, #expressjs, #mongodb, #react, #css)
       
-      - AWS, Golang, etc.
+   - `NFTir` project, a Golang web server configured and deployed to an `AWS EC2` instance. Built on top of the `Gin Gonic` framework, `NFTir` hosted multiple RESTful that helps processing metadata and information of specific NFTs using `Moralis APIs` (#golang, #aws, #ec2, #dynamoDB, #moralis, #web3.0, #nft, #ethereum
       
 - ✨ My portfolio: https://namnguyen31.com
 - 📫 Reach me at nnguyen6@oswego.edu
