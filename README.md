@@ -1,6 +1,6 @@
 # Howdy 👋, it's Logan :)
 ## Senior CS student @SUNY Oswego
-![Senior CS major @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500)
+<!-- ![Senior CS major @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500) -->
 
 - 🖌 I’m highly interested in blockchain development and a web 3.0 enthusiast
 - 🌱 I’m currently working on:
