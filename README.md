@@ -2,7 +2,7 @@
 ## Senior CS student @SUNY Oswego
 <!-- ![Senior CS major @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500) -->
 
-- 🖌 I’m a web 3.0 enthusiast who is highly interested in blockchain development, Ethereum ecosystem and full-stack web development in general
+- 🖌 I’m a software developer web 3.0 enthusiast who is highly interested in blockchain development, Ethereum ecosystem and full-stack web development in general
 - 🛠 I’m currently working on:
 
    - 🍀 ***SWYL*** - `Support Who You Love` (`Capstone Project`) , a web 3.0 platform that helps musicians and artists connect to their fanbase and either get supports through donations (`tips`) or sell their music as `NFTs`. (#web3.0, #ethereum, #solidity, #smart-contract, #oppenzeppelin, #ERC-721, #ERC-1155, #IPFS, #nextjs, #tailwindcss)
