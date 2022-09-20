@@ -18,6 +18,7 @@
 
      + 📗 [front-end resume](https://logann131.github.io/resume-fe/)
      + 📘 [back-end resume](https://logann131.github.io/resume-be/)
+     + 📕 [blockchain resume](https://logann131.github.io/resume-blockchain/)
 
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgad31vn&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/lgad31vn/github-readme-stats) -->
 
