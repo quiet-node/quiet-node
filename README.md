@@ -9,7 +9,7 @@
       
    - 🌿 `Jobs4Interns` project as an intern at `J4I`. `Jobs4Interns`, powered on top of the MERN stack, is a highly scalable web application that assists interns connect with potential employers and land on internships with ease. (#nodejs, #expressjs, #mongodb, #react, #css)
       
-   - 🌱 `NFTir` project, a Golang web server configured and deployed to an `AWS EC2` instance. Built on top of the `Gin Gonic` framework, `NFTir` hosted multiple RESTful that helps processing metadata and information of specific NFTs using `Moralis APIs` (#golang, #aws, #ec2, #dynamoDB, #moralis, #web3.0, #nft, #ethereum)
+   - 🌱 `NFTir` project, a Golang web server configured and deployed to an `AWS EC2` instance. Built on top of the `Gin Gonic` framework, `NFTir` hosted multiple RESTful that helps processing metadata and information of specific NFTs using `NFTGo API` (#golang, #aws, #ec2, #dynamoDB, #moralis, #web3.0, #nft, #ethereum)
       
 - ✨ My portfolio: https://namnguyen31.com
 - 📫 Reach me at nnguyen6@oswego.edu
