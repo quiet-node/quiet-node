@@ -12,7 +12,7 @@
    - 🌱 [NFTir](https://github.com/NFTir) project, a Golang web server built on top of the `Gin Gonic` framework. `NFTir` hosted multiple RESTful endpoints that helps processing metadata and information of specific NFTs using `NFTGo API` (#golang, #aws, #ec2, #dynamoDB, #moralis, #web3.0, #nft, #ethereum)
       
 - ✨ My portfolio: https://namnguyen31.com
-- 📫 Reach me at nnguyen6@oswego.edu
+- 📫 Reach me at lg.131.dev@gmail.com
 
 - 📃 My resumes: 
 
