@@ -22,7 +22,7 @@
 
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgad31vn&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/lgad31vn/github-readme-stats) -->
 
-  ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logann131&hide=stars&show_icons=true&theme=gotham)
+<!--   ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logann131&hide=stars&show_icons=true&theme=gotham) -->
   
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=logann131&theme=gotham)  
   ![Profile views](https://gpvc.arturio.dev/lgad31vn)
