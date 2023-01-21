@@ -24,8 +24,12 @@
 
 <!--   ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logann131&hide=stars&show_icons=true&theme=gotham) -->
   
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=logann131&theme=gotham)  
+   <!--   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=logann131&theme=gotham) -->
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight_duo)](https://git.io/streak-stats)
+<!--    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=dracula)](https://git.io/streak-stats) -->
+   
   ![Profile views](https://gpvc.arturio.dev/lgad31vn)
+<!--     ![Profile views](https://gpvc.arturio.dev/lg.131.dev) -->
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgad31vn&repo=Hashtology-dapp&theme=gotham)](https://github.com/lgad31vn/Hashtology-dapp) -->
 
 
