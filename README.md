@@ -24,7 +24,7 @@
 </details>
 
 <details open>
-  <summary><h3>💫 Other big projects 🔥⚡️</h3></summary>
+  <summary><h3>💫 Favorite projects 💫</h3></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -44,7 +44,7 @@
 </details>
 
 <details open>
-  <summary><h3>⚡️🔥 My Resumes 🔥⚡️</h3></summary>
+  <summary><h3>✨ My Resumes ✨</h3></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -57,12 +57,13 @@
   </p>
 </details>
 
-  
-  <h3>🌪️ My GitHub Stats ☁️</h3>
+<details open>
+  <summary><h3>☀️ My GitHub Stats ☀️</h3></summary>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight_duo)](https://git.io/streak-stats)
 
   ![Profile views](https://gpvc.arturio.dev/lgad31vn)
+</details>
 
 <p>
   <img src="https://user-images.githubusercontent.com/66233296/214164389-3a835f90-25b1-4649-83f6-3cc29f30f927.png" alt="Dark mode recommended" />
