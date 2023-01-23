@@ -1,32 +1,63 @@
-# Howdy 👋, it's Logan :)
-## Senior CS student @SUNY Oswego
+<p align="center">
+  <a href="https://github.com/logann131">
+    <img src="https://user-images.githubusercontent.com/66233296/213967317-e9b892fd-b74e-444c-b714-a38b05b40cd5.png" alt="Logan Nguyen" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/logann131">
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=3000&pause=1000&color=82ACF9&center=true&vCenter=true&width=435&lines=Full+stack+web+3.0+developer;Blockchain+enthusiast;Golang+%7C+TypeScript+%7C+Solidity" /></a>
+</p>
 <!-- ![Senior CS major @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500) -->
 
-- 🖌 I’m a full-stack software developer and a web 3.0 enthusiast who is highly interested in blockchain development, Ethereum ecosystem and full-stack web development in general
-- 🛠 I’m currently working on:
+<details open>
+  <summary><h3>⚡️🔥 SWYL - Support Who You Love | Full-stack Web 3.0 | Top Project 🔥⚡️</h3></summary>
 
-   - 🍀 [SWYL - Support Who You Love](https://github.com/SWYLy) (`Capstone Project`) , a web 3.0 platform that helps musicians and artists connect to their fanbase and either get supports through donations (`tips`) or sell their music as `NFTs`. (#web3.0, #ethereum, #solidity, #smart-contract, #oppenzeppelin, #ERC-721, #ERC-1155, #IPFS, #nextjs, #tailwindcss)
-      
-   - 🌿 `Jobs4Interns` project as an intern at `J4I`. `Jobs4Interns`, powered on top of the MERN stack, is a highly scalable web application that assists interns connect with potential employers and land on internships with ease. (#nodejs, #expressjs, #mongodb, #react, #css)
-      
-   - 🌱 [NFTir](https://github.com/NFTir) project, a Golang web server built on top of the `Gin Gonic` framework. `NFTir` hosted multiple RESTful endpoints that helps processing metadata and information of specific NFTs using `NFTGo API` (#golang, #aws, #ec2, #dynamoDB, #moralis, #web3.0, #nft, #ethereum)
-      
-- ✨ My portfolio: https://namnguyen31.com
-- 📫 Reach me at lg.131.dev@gmail.com
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/SWYLy/client"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=client&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
+    <a href="https://github.com/SWYLy/contracts"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=contracts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    </a>
+    <a href="https://github.com/SWYLy/servers"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=servers&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    </a>
+  </p>
+</details>
 
-- 📃 My resumes: 
+<details open>
+  <summary><h3>💫 Other big projects 🔥⚡️</h3></summary>
 
-     + 📗 [front-end resume](https://logann131.github.io/resume-fe/)
-     + 📘 [back-end resume](https://logann131.github.io/resume-be/)
-     + 📕 [blockchain resume](https://logann131.github.io/resume-blockchain/)
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/NFTir/server"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=server&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
+    <a href="https://github.com/NFTir/agent"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=agent&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    </a>
+    <a href="https://github.com/tenbergen/CSC480-22S"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tenbergen&repo=CSC480-22S&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    </a>
+     <a href="https://github.com/logann131/CSC-365-fullstack-app-I"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-I&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
+    <a href="https://github.com/NFTir/agent"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-II&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    </a>
+    <a href="https://github.com/tenbergen/CSC480-22S"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-III&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    </a>
+  </p>
+</details>
 
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgad31vn&hide=css,html&langs_count=8&layout=compact&theme=gotham)](https://github.com/lgad31vn/github-readme-stats) -->
+<details open>
+  <summary><h3>⚡️🔥 My Resumes 🔥⚡️</h3></summary>
 
-<!--   ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logann131&hide=stars&show_icons=true&theme=gotham) -->
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://logann131.github.io/resume-fe/"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-fe&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
+    <a href="https://logann131.github.io/resume-be/"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-be&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    </a>
+    <a href="https://logann131.github.io/resume-blockchain/"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-blockchain&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    </a>
+  </p>
+</details>
+
   
-   <!--   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=logann131&theme=gotham) -->
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight_duo)](https://git.io/streak-stats)
-<!--    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=dracula)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight_duo)](https://git.io/streak-stats)
    
   ![Profile views](https://gpvc.arturio.dev/lgad31vn)
 <!--     ![Profile views](https://gpvc.arturio.dev/lg.131.dev) -->
