@@ -61,9 +61,10 @@
   <h3>🌪️ My GitHub Stats ☁️</h3>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight_duo)](https://git.io/streak-stats)
-   
-  ![Profile views](https://gpvc.arturio.dev/lgad31vn)
-<!--     ![Profile views](https://gpvc.arturio.dev/lg.131.dev) -->
-<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lgad31vn&repo=Hashtology-dapp&theme=gotham)](https://github.com/lgad31vn/Hashtology-dapp) -->
 
+  ![Profile views](https://gpvc.arturio.dev/lgad31vn)
+
+<p>
+  <img src="https://user-images.githubusercontent.com/66233296/214164389-3a835f90-25b1-4649-83f6-3cc29f30f927.png" alt="Dark mode recommended" />
+</p>
 
