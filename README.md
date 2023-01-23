@@ -15,10 +15,10 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/SWYLy/client"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=client&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
-    <a href="https://github.com/SWYLy/contracts"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=contracts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    <a href="https://github.com/SWYLy/client"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=client&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
+    <a href="https://github.com/SWYLy/contracts"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=contracts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
-    <a href="https://github.com/SWYLy/servers"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=servers&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    <a href="https://github.com/SWYLy/servers"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=servers&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
     </a>
   </p>
 </details>
@@ -29,15 +29,15 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/NFTir/server"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=server&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
-    <a href="https://github.com/NFTir/agent"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=agent&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    <a href="https://github.com/NFTir/server"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=server&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
+    <a href="https://github.com/NFTir/agent"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=agent&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
-    <a href="https://github.com/tenbergen/CSC480-22S"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tenbergen&repo=CSC480-22S&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    <a href="https://github.com/tenbergen/CSC480-22S"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tenbergen&repo=CSC480-22S&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
     </a>
-     <a href="https://github.com/logann131/CSC-365-fullstack-app-I"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-I&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
-    <a href="https://github.com/NFTir/agent"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-II&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+     <a href="https://github.com/logann131/CSC-365-fullstack-app-I"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-I&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
+    <a href="https://github.com/NFTir/agent"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-II&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
-    <a href="https://github.com/tenbergen/CSC480-22S"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-III&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    <a href="https://github.com/tenbergen/CSC480-22S"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-III&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
     </a>
   </p>
 </details>
@@ -48,10 +48,10 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://logann131.github.io/resume-fe/"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-fe&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
-    <a href="https://logann131.github.io/resume-be/"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-be&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    <a href="https://logann131.github.io/resume-fe/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-fe&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
+    <a href="https://logann131.github.io/resume-be/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-be&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
-    <a href="https://logann131.github.io/resume-blockchain/"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-blockchain&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    <a href="https://logann131.github.io/resume-blockchain/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=resume-blockchain&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
     </a>
   </p>
 </details>
