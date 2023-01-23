@@ -34,11 +34,12 @@
     </a>
     <a href="https://github.com/tenbergen/CSC480-22S"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tenbergen&repo=CSC480-22S&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
     </a>
-     <a href="https://github.com/logann131/CSC-365-fullstack-app-I"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-I&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
+    <a href="https://github.com/logann131/CSC-365-fullstack-app-I"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-I&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
     <a href="https://github.com/NFTir/agent"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-II&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
     <a href="https://github.com/tenbergen/CSC480-22S"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=logann131&repo=CSC-365-fullstack-app-III&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
     </a>
+
   </p>
 </details>
 
