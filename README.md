@@ -60,7 +60,7 @@
 <details open>
   <summary><h3>☀️ My GitHub Stats ☀️</h3></summary>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight_duo)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight)](https://git.io/streak-stats)
 
   ![Profile views](https://gpvc.arturio.dev/lgad31vn)
 </details>
