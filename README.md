@@ -15,7 +15,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/SWYLy/client"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=client&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
+    <a href="https://github.com/SWYLy/client"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=client&theme=tokyonight_duo&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
     <a href="https://github.com/SWYLy/contracts"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=contracts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
     <a href="https://github.com/SWYLy/servers"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=servers&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
