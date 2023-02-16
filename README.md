@@ -44,7 +44,7 @@
 </details>
 
 <details open>
-  <summary><h3>✨ My Resumes ✨</h3></summary>
+  <summary><h3>✨ Resumes ✨</h3></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -58,7 +58,7 @@
 </details>
 
 <details open>
-  <summary><h3>☀️ My GitHub Stats ☀️</h3></summary>
+  <summary><h3>☀️ GitHub Stats ☀️</h3></summary>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight)](https://git.io/streak-stats)
   
