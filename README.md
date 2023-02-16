@@ -10,7 +10,7 @@
 <!-- ![Senior CS major @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500) -->
 
 <details open>
-  <summary><h3>⚡️🔥 SWYL - Support Who You Love | Full-stack Web 3.0 | Top Project 🔥⚡️</h3></summary>
+  <summary><h3>⚡️🔥 Spark Your Noble Story - SYNS Platform | Full-stack Web 3.0 | Top Project 🔥⚡️</h3></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -61,11 +61,12 @@
   <summary><h3>☀️ My GitHub Stats ☀️</h3></summary>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=logann131&theme=tokyonight)](https://git.io/streak-stats)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=logann131&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
   ![Profile views](https://gpvc.arturio.dev/lgad31vn)
-</details>
 
 <p>
   <img src="https://user-images.githubusercontent.com/66233296/214164389-3a835f90-25b1-4649-83f6-3cc29f30f927.png" alt="Dark mode recommended" />
 </p>
-
