@@ -10,7 +10,7 @@
 <!-- ![Senior CS major @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500) -->
 
 <details open>
-  <summary><h3>⚡️🔥 Spark Your Noble Story - SYNS Platform | Full-stack Web 3.0 | Top Project 🔥⚡️</h3></summary>
+  <summary><h3>⚡️🔥 SYNS Platform | Full-stack Web 3.0 | Top Project 🔥⚡️</h3></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
