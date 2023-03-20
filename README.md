@@ -29,15 +29,15 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/NFTir/server"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=server&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
-    <a href="https://github.com/NFTir/agent"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=agent&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    <a href="https://github.com/NFTir/server"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=server&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="nftir-server">     </a>
+    <a href="https://github.com/NFTir/agent"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=agent&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="nftir-agent">
     </a>
-    <a href="https://github.com/quiet-node/ethereum-dev-sandbox"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=ethereum-dev-sandbox&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    <a href="https://github.com/quiet-node/ethereum-dev-sandbox"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=ethereum-dev-sandbox&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="eth-dev-sandbox">
     </a>
-    <a href="https://github.com/quiet-node/CSC-365-fullstack-app-I"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-I&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
-    <a href="https://github.com/quiet-node/CSC-365-fullstack-app-II"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-II&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    <a href="https://github.com/quiet-node/CSC-365-fullstack-app-I"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-I&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="full-stack-yelp-app-I"></a>
+    <a href="https://github.com/quiet-node/CSC-365-fullstack-app-II"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-II&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="full-stack-yelp-app-II">
     </a>
-    <a href="https://github.com/quiet-node/CSC-365-fullstack-app-III"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-III&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    <a href="https://github.com/quiet-node/CSC-365-fullstack-app-III"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-III&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="full-stack-yelp-app-III">
     </a>
 
   </p>
@@ -49,11 +49,21 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://quiet-node.github.io/resume-fe/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=resume-fe&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client"></a>
-    <a href="https://quiet-node.github.io/resume-be/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=resume-be&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
+    <a href="https://quiet-node.github.io/resume-fe/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=resume-fe&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="resume-fe"></a>
+    <a href="https://quiet-node.github.io/resume-be/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=resume-be&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="resume-be">
     </a>
-    <a href="https://quiet-node.github.io/resume-blockchain/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=resume-blockchain&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
+    <a href="https://quiet-node.github.io/resume-blockchain/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=resume-blockchain&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="resume-blockchain">
     </a>
+  </p>
+</details>
+
+<details open>
+  <summary><h3>❄️ Portfolio ❄️ </h3></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/quiet-node/portfolio-v2/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="portfolio-v2"></a>
   </p>
 </details>
 
