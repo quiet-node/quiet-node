@@ -15,7 +15,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/syns-platform" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=.github&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="SynsPlatform">     
+    <a href="https://github.com/syns-platform" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="SynsPlatform">     
     </a>
   </p>
 </details>
