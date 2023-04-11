@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/quiet-node">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=445&lines=Full-stack+Web+3.0+Developer;DLT+%7C+Blockchain+%7C+DAG;Smart+Contract+Enthusiast+;Golang+%7C+TypeScript+%7C+Solidity+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=Full-stack+Web+3.0+Developer;Enthusiastic+about+DLT+%7C+Blockchain+%7C+DAG;Junior+Smart+Contract+Developer+;Golang+%7C+TypeScript+%7C+Solidity+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></a>
 </p>
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
