@@ -20,7 +20,7 @@
   </p>
 </details>
 
-<!-- Syns Platform code is now private
+<!-- Syns Platform's code is now private
 <a href="https://github.com/SWYLy/client" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=client&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
     <a href="https://github.com/SWYLy/contracts"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=contracts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
@@ -77,6 +77,9 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quiet-node&theme=tokyonight)](https://git.io/streak-stats)
   
+  [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&theme=tokyonight&card_width=495)](https://github.com/quiet-node)
+<!-- GRADIENT  [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=495)](https://github.com/quiet-node)
+   -->
   [![trophy](https://github-profile-trophy.vercel.app/?username=quiet-node&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
