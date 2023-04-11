@@ -7,26 +7,29 @@
   <a href="https://github.com/quiet-node">
     <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=445&lines=Full-stack+Web+3.0+Developer;DLT+%7C+Blockchain+%7C+DAG;Smart+Contract+Enthusiast+;Golang+%7C+TypeScript+%7C+Solidity+%7C+More;%F0%9F%87%BB%F0%9F%87%B3+Vietnamese+%F0%9F%87%BB%F0%9F%87%B3" /></a>
 </p>
-<!-- ![Senior CS major @SUNY Oswego](https://pbs.twimg.com/profile_banners/1042005380211986441/1642665132/1500x500) -->
 
-<details open>
-  <summary><h3>⚡️🔥 SYNS Platform | Full-stack Web 3.0 | Capstone Project 🔥⚡️</h3></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/syns-platform" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="SynsPlatform">     
-    </a>
-  </p>
-</details>
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <!-- Syns Platform's code is now private
+<details open>
+  <summary><h3>⚡️🔥 SYNS Platform | Full-stack Web 3.0 | Capstone Project 🔥⚡️</h3></summary>
+  <p align="left">
+    <a href="https://github.com/syns-platform" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="SynsPlatform"> 
 <a href="https://github.com/SWYLy/client" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=client&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
     <a href="https://github.com/SWYLy/contracts"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=contracts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
     <a href="https://github.com/SWYLy/servers"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=servers&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">
     </a>
--->
+    </a>
+  </p>
+</details> -->
+<details open>
+<summary><h3> ✨ SYNS Platform | Full-stack Web 3.0 | Capstone Project ✨ </h3></summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/syns-platform)
+
+</details>
 
 <details open>
   <summary><h3>💫 Favorite projects 💫</h3></summary>
@@ -67,9 +70,13 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
+<!--   <p align="left">
     <a href="https://github.com/quiet-node/portfolio-v2/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="portfolio-v2"></a>
   </p>
+   -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/syns-platform)
+
+  
 </details>
 
 <details open>
