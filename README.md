@@ -82,7 +82,7 @@
 <details open>
   <summary><h3>☀️ GitHub Stats ☀️</h3></summary>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quiet-node&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quiet-node&theme=tokyonight)](https://github.com/quiet-node)
   
   [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&theme=tokyonight&card_width=495)](https://github.com/quiet-node)
 <!-- GRADIENT  [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=495)](https://github.com/quiet-node)
