@@ -27,8 +27,12 @@
 <details open>
 <summary><h3> ✨ SYNS Platform | Full-stack Web 3.0 | Capstone Project ✨ </h3></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/syns-platform)
-
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/syns-platform)
+ -->
+  
+  <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
+    </a>
+  
 </details>
 
 <details open>
@@ -74,7 +78,10 @@
     <a href="https://github.com/quiet-node/portfolio-v2/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="portfolio-v2"></a>
   </p>
    -->
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/quiet-node/portfolio-v2)
+<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/quiet-node/portfolio-v2) -->
+  
+  <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
+    </a>
 
   
 </details>
@@ -84,9 +91,8 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quiet-node&theme=tokyonight)](https://github.com/quiet-node)
   
-  [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&theme=tokyonight&card_width=495)](https://github.com/quiet-node)
-<!-- GRADIENT  [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=495)](https://github.com/quiet-node)
-   -->
+<!--   [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&theme=tokyonight&card_width=495)](https://github.com/quiet-node) -->
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=quiet-node&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
