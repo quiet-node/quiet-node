@@ -11,11 +11,10 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-<!-- Syns Platform's code is now private
+Syns Platform's code is now private
 <details open>
   <summary><h3>⚡️🔥 SYNS Platform | Full-stack Web 3.0 | Capstone Project 🔥⚡️</h3></summary>
   <p align="left">
-    <a href="https://github.com/syns-platform" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="SynsPlatform"> 
 <a href="https://github.com/SWYLy/client" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=client&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/client">     </a>
     <a href="https://github.com/SWYLy/contracts"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swyly&repo=contracts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="swyl/contracts">
     </a>
@@ -23,17 +22,18 @@
     </a>
     </a>
   </p>
-</details> -->
-<details open>
+</details>
+
+<!-- <details open>
 <summary><h3> ✨ SYNS Platform | Full-stack Web 3.0 | Capstone Project ✨ </h3></summary>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/syns-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/syns-platform)
  -->
   
-  <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
-    </a>
+<!--   <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
+    </a> -->
   
-</details>
+<!-- </details> -->
 
 <details open>
   <summary><h3>💫 Favorite projects 💫</h3></summary>
@@ -74,14 +74,10 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<!--   <p align="left">
-    <a href="https://github.com/quiet-node/portfolio-v2/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="portfolio-v2"></a>
-  </p>
-   -->
-<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/quiet-node/portfolio-v2) -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/quiet-node/portfolio-v2)
   
-  <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
-    </a>
+<!--   <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
+    </a> -->
 
   
 </details>
