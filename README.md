@@ -11,7 +11,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
-Syns Platform's code is now private
+<!-- Syns Platform's code is now private -->
 <details open>
   <summary><h3>⚡️🔥 SYNS Platform | Full-stack Web 3.0 | Capstone Project 🔥⚡️</h3></summary>
   <p align="left">
