@@ -12,6 +12,8 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <!-- Syns Platform's code is now private -->
+
+<!--
 <details open>
   <summary><h3>⚡️🔥 SYNS Platform | Full-stack Web 3.0 | Capstone Project 🔥⚡️</h3></summary>
   <p align="left">
@@ -23,12 +25,12 @@
     </a>
   </p>
 </details>
-
-<!-- <details open>
+-->
+<details open>
 <summary><h3> ✨ SYNS Platform | Full-stack Web 3.0 | Capstone Project ✨ </h3></summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/syns-platform)
- -->
+
   
 <!--   <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
     </a> -->
