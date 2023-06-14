@@ -45,10 +45,12 @@
   <p align="left">
     <a href="https://github.com/quiet-node/ethereum-dev-sandbox"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=ethereum-dev-sandbox&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="eth-dev-sandbox">
     </a>
-    <a href="https://github.com/NFTir/server"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=server&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="nftir-server">     </a>
+    <a href="https://github.com/quiet-node/hedera-dev-sandbox"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=hedera-dev-sandbox&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="hedera-dev-sandbox">
+    </a>
+    <a href="https://github.com/NFTir/server"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=server&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="nftir-server">
+    </a>
     <a href="https://github.com/NFTir/agent"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NFTir&repo=agent&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="nftir-agent">
     </a>
-    <a href="https://github.com/quiet-node/CSC-365-fullstack-app-I"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-I&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="full-stack-yelp-app-I"></a>
     <a href="https://github.com/quiet-node/CSC-365-fullstack-app-II"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-II&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="full-stack-yelp-app-II">
     </a>
     <a href="https://github.com/quiet-node/CSC-365-fullstack-app-III"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=CSC-365-fullstack-app-III&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="full-stack-yelp-app-III">
