@@ -80,7 +80,7 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB)](https://github.com/quiet-node/portfolio-v2) -->
   
-  <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
+  <a href="https://github.com/quiet-node/portfolio-v2"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=portfolio-v2&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
     </a>
 
   
