@@ -40,7 +40,7 @@
   <a href="https://github.com/syns-platform"><img width="324" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
     </a>
   
-<!-- </details> -->
+</details>
 
 <details open>
   <summary><h3>💫 Favorite projects 💫</h3></summary>
