@@ -1,7 +1,12 @@
 <p align="center">
   <a href="https://github.com/quiet-node">
-    <img src="https://user-images.githubusercontent.com/66233296/213967317-e9b892fd-b74e-444c-b714-a38b05b40cd5.png" alt="Logan Nguyen" /></a>
+    <img src="https://github.com/quiet-node/quiet-node/assets/66233296/54877ed6-93e8-4b73-a7de-6d9ae673a3fc" alt="banner" />
+  </a>
 </p>
+
+<!-- <img src="https://user-images.githubusercontent.com/66233296/213967317-e9b892fd-b74e-444c-b714-a38b05b40cd5.png" alt="Logan Nguyen" /> -->
+<br />
+<br />
 
 <p align="center">
   <a href="https://github.com/quiet-node">
