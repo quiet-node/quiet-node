@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <a href="https://github.com/quiet-node">
     <img src="https://github.com/quiet-node/quiet-node/assets/66233296/54877ed6-93e8-4b73-a7de-6d9ae673a3fc" alt="banner" />
   </a>
@@ -60,6 +60,12 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+    <a href="https://github.com/quiet-node/hedro-ai"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=hedro-ai&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="hedro-ai">
+    </a>
+    <a href="https://github.com/quiet-node/evm-disassembler-ts"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=evm-disassembler-ts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="evm-disassembler-ts">
+    </a>
+    <a href="https://github.com/quiet-node/evm-decompiler-rest"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=evm-decompiler-rest&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="evm-decompiler-rest">
+    </a>
     <a href="https://github.com/quiet-node/ethereum-dev-sandbox"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=ethereum-dev-sandbox&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="eth-dev-sandbox">
     </a>
     <a href="https://github.com/quiet-node/hedera-dev-sandbox"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=hedera-dev-sandbox&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="hedera-dev-sandbox">
