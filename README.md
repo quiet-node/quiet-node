@@ -1,5 +1,5 @@
   <p align="center">
-  <a href="https://github.com/quiet-node">
+  <a href="https://quiet-node.dev">
     <img src="https://github.com/quiet-node/quiet-node/assets/66233296/54877ed6-93e8-4b73-a7de-6d9ae673a3fc" alt="banner" />
   </a>
 </p>
