@@ -120,9 +120,6 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=quiet-node&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
-
-  <!-- ![Profile views](https://gpvc.arturio.dev/lgad31vn) -->
-
 <p>
   <img src="https://user-images.githubusercontent.com/66233296/214164389-3a835f90-25b1-4649-83f6-3cc29f30f927.png" alt="Dark mode recommended" />
 </p>
