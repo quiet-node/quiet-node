@@ -113,7 +113,9 @@
 <details open>
   <summary><h3>☀️ GitHub Stats ☀️</h3></summary>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quiet-node&theme=tokyonight)](https://github.com/quiet-node)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=quiet-node&theme=tokyonight)](https://github.com/quiet-node)
+  
+
   
 <!--   [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&theme=tokyonight&card_width=495)](https://github.com/quiet-node) -->
 
