@@ -45,7 +45,7 @@
 </details>
 
 <details open>
-  <summary><h3>🔨 Contributing to 🔨</h3></summary>
+  <summary><h3>🔨 Actively contributing to 🔨</h3></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
@@ -64,9 +64,9 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/quiet-node/hedro-ai"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=hedro-ai&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="hedro-ai">
+    <a href="https://github.com/syns-platform"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=syns-platform&repo=Syns-Platform&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="Syns Platform">
     </a>
-    <a href="https://github.com/quiet-node/evm-disassembler-ts"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=evm-disassembler-ts&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="evm-disassembler-ts">
+    <a href="https://github.com/quiet-node/hedro-ai"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=hedro-ai&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="hedro-ai">
     </a>
     <a href="https://github.com/quiet-node/evm-decompiler-rest"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=quiet-node&repo=evm-decompiler-rest&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="evm-decompiler-rest">
     </a>
