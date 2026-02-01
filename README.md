@@ -3,6 +3,10 @@
     <img src="https://github.com/quiet-node/quiet-node/assets/66233296/54877ed6-93e8-4b73-a7de-6d9ae673a3fc" alt="banner" />
   </a>
 </p>
+
+<p align="center">
+  <img src="game.gif" alt="My GitHub Game" width="100%" />
+</p>
 <!-- <img src="https://user-images.githubusercontent.com/66233296/213967317-e9b892fd-b74e-444c-b714-a38b05b40cd5.png" alt="Logan Nguyen" /> -->
 <br />
 <br />
@@ -113,17 +117,17 @@
   
 </details>
 
-<details open>
+<!--   <details open>
   <summary><h3>☀️ GitHub Stats ☀️</h3></summary>
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=quiet-node&theme=tokyonight)](https://github.com/quiet-node)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=quiet-node&theme=tokyonight)](https://github.com/quiet-node) -->
   
 
   
 <!--   [![quiet-node's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-node&theme=tokyonight&card_width=495)](https://github.com/quiet-node) -->
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=quiet-node&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=quiet-node&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 <p>
   <img src="https://user-images.githubusercontent.com/66233296/214164389-3a835f90-25b1-4649-83f6-3cc29f30f927.png" alt="Dark mode recommended" />
-</p>
+</p> -->
