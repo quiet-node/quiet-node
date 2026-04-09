@@ -14,7 +14,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Pro For Vibe Coding | Builder at Heart | Build In Public 
+> Sr. Software Engineer | Team Vibe Coding | Builder At Heart | Build In Public
 
 ## Building/Contributing...
 
