@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Oi, It's Logan 👋
+# Oi, it's Logan 👋
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -22,7 +22,7 @@
 - **[Thuki](https://github.com/quiet-node/thuki)** - Opensource Context-aware floating secretary powered fully locally by Ollama
 - **[gesture-lab](https://github.com/quiet-node/gesture-lab)** - 3D gesture recognition and interaction experiments
 - **[Briefium](https://briefium.com)** - Real-time news aggregation with AI-powered summaries for the Hedera Ecosystem.
-- **[Hedera Glance](https://hedera-glance.vercel.app)** - Real-time Hedera network transaction watcher
+- **[Hedera Glance](https://hederaglance.vercel.app/)** - Real-time Hedera network transaction watcher
 - **[Tally Aura](https://tallyaura.vercel.app)** - Instantly craft aesthetic banners for your X follower growth.
 
 
