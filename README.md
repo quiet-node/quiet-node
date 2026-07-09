@@ -16,9 +16,8 @@
 
 > Sr. Software Engineer | Team Vibe Coding | Builder At Heart | Build In Public
 
-## Building/Contributing...
+## Building
 
-- **[hiero-json-rpc-relay](https://github.com/hiero-ledger/hiero-json-rpc-relay)** - Ethereum JSON-RPC implementation for Hiero networks
 - **[Thuki](https://github.com/quiet-node/thuki)** - Opensource Context-aware floating secretary powered fully locally by Ollama
 - **[gesture-lab](https://github.com/quiet-node/gesture-lab)** - 3D gesture recognition and interaction experiments
 - **[Briefium](https://briefium.com)** - Real-time news aggregation with AI-powered summaries for the Hedera Ecosystem.
