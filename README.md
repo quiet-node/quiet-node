@@ -16,6 +16,7 @@
 
 ## Building
 
+- **Sonmai**
 - **[Thuki](https://github.com/quiet-node/thuki)** - Opensource Context-aware floating secretary powered fully locally by Ollama
 - **[gesture-lab](https://github.com/quiet-node/gesture-lab)** - 3D gesture recognition and interaction experiments
 - **[Briefium](https://briefium.com)** - Real-time news aggregation with AI-powered summaries for the Hedera Ecosystem.
