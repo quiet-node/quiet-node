@@ -6,25 +6,16 @@
 
 # Oi, it's Logan 👋
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-
 ## Building
 
 - **Sonmai**
+
+## Archived Work
 - **[Thuki](https://github.com/quiet-node/thuki)** - Opensource Context-aware floating secretary powered fully locally by Ollama
 - **[gesture-lab](https://github.com/quiet-node/gesture-lab)** - 3D gesture recognition and interaction experiments
 - **[Briefium](https://briefium.com)** - Real-time news aggregation with AI-powered summaries for the Hedera Ecosystem.
 - **[Hedera Glance](https://hederaglance.vercel.app/)** - Real-time Hedera network transaction watcher
 - **[Tally Aura](https://tallyaura.vercel.app)** - Instantly craft aesthetic banners for your X follower growth.
-
-
-## Archived Work
 - **[SYNS Platform](https://github.com/syns-platform)** - Web 3.0 revolutionizing music via NFTs & blockchain
 - **[evm-decompiler-rest](https://github.com/quiet-node/evm-decompiler-rest)** - REST API for EVM bytecode decompilation and analysis
 - **[NFTir](https://github.com/NFTir)** - NFT management platform with advanced tooling
